@@ -12,7 +12,7 @@ class CustomBubbleView: UIView {
     
     let radius: CGFloat = 10.0
     let triangleRadius = 5.0
-    let triangleWidth: CGFloat = 20
+    let triangleWidth: CGFloat = 30
     let triangleHeight: CGFloat = 30
 
 
