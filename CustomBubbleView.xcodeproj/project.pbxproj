@@ -13,6 +13,7 @@
 		AEED266F2B0D06720023B394 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AEED266D2B0D06720023B394 /* Main.storyboard */; };
 		AEED26712B0D06730023B394 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AEED26702B0D06730023B394 /* Assets.xcassets */; };
 		AEED26742B0D06730023B394 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AEED26722B0D06730023B394 /* LaunchScreen.storyboard */; };
+		AEED267C2B0D06BE0023B394 /* CustomBubbleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEED267B2B0D06BE0023B394 /* CustomBubbleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		AEED26702B0D06730023B394 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AEED26732B0D06730023B394 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AEED26752B0D06730023B394 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AEED267B2B0D06BE0023B394 /* CustomBubbleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomBubbleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				AEED26672B0D06720023B394 /* AppDelegate.swift */,
 				AEED26692B0D06720023B394 /* SceneDelegate.swift */,
 				AEED266B2B0D06720023B394 /* ViewController.swift */,
+				AEED267B2B0D06BE0023B394 /* CustomBubbleView.swift */,
 				AEED266D2B0D06720023B394 /* Main.storyboard */,
 				AEED26702B0D06730023B394 /* Assets.xcassets */,
 				AEED26722B0D06730023B394 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				AEED266C2B0D06720023B394 /* ViewController.swift in Sources */,
 				AEED26682B0D06720023B394 /* AppDelegate.swift in Sources */,
 				AEED266A2B0D06720023B394 /* SceneDelegate.swift in Sources */,
+				AEED267C2B0D06BE0023B394 /* CustomBubbleView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
